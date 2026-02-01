@@ -1,4 +1,4 @@
-# Social-Media-Assignment: Foundations of Investment
+# Social Media Assignment: Foundations of Investment (BMF5332)
 
 🚨 Portfolio Reality Check: 60/40 vs. The Efficient Frontier
 
