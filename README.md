@@ -26,7 +26,7 @@ Verdict: 60/40 remains a practical behavioral baseline; optimization highlights 
 #AssetAllocation #QuantFinance #Investing #Python #PortfolioManagement
 <img width="1790" height="390" alt="image" src="https://github.com/user-attachments/assets/04d50d68-ab1e-4e4a-ac7b-6e1e959f92f7" />
 <img width="1611" height="611" alt="image" src="https://github.com/user-attachments/assets/d7842113-2683-4759-8e21-dc719efdb5f1" />
-<img width="1164" height="850" alt="image" src="https://github.com/user-attachments/assets/b76a56fb-e070-4c31-a363-bf9419a0f346" />
+<img width="1389" height="689" alt="image" src="https://github.com/user-attachments/assets/31d44360-3124-494c-8dbb-9f3c6f92d47c" />
 <img width="1810" height="611" alt="image" src="https://github.com/user-attachments/assets/b0c4321a-d898-4522-83cd-6a32ea9b3eef" />
 
 
